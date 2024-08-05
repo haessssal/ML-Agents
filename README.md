@@ -3,7 +3,7 @@
 
 Based on the PushBlock example
 
-### Created a custom project where the agent searches for a target and implemented the following features:
+### Created a project where the agent searches for a target and implemented the following features:
 
 1. Performing multiple training sessions simultaneously
 2. Deploying multiple agents
